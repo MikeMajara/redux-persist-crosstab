@@ -1,3 +1,4 @@
+// @flow
 import { KEY_PREFIX, REHYDRATE } from 'redux-persist/lib/constants';
 
 export default function (store, persistConfig, crosstabConfig = {}) {
